@@ -140,11 +140,11 @@ const Product = () => {
                   <th style={{ width: "8%" }}>
                     ID Sản Phẩm
                   </th>
-                  <th style={{ width: "14%" }}>Tên Sản Phẩm</th>
-                  <th style={{ width: "8%" }}>Ảnh</th>
-                  <th style={{ width: "5%" }}>Số Lượng</th>
-                  <th style={{ width: "8%" }}>Tình Trạng</th>
-                  <th style={{ width: "10%" }}>Giá Tiền</th>
+                  <th style={{ width: "14%" }}>Mã Sinh Viên</th>
+                  <th style={{ width: "8%" }}>Tên</th>
+                  <th style={{ width: "5%" }}>Giới Tính</th>
+                  <th style={{ width: "8%" }}>Số Điện Thoại</th>
+                  <th style={{ width: "10%" }}>Mail</th>
                   <th style={{ width: "8%" }}>Danh Mục</th>
                   <th style={{ width: "6%" }}>Chức Năng</th>
                 </tr>
